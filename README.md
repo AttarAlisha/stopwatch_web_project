@@ -32,4 +32,4 @@ An elegant and responsive stopwatch web application built using **HTML**, **CSS*
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AttarAlisha/PRODIGY_WD_02.git
+   git clone https://github.com/AttarAlisha/stopwatch_web_project.git
